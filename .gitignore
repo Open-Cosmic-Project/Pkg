@@ -1,0 +1,9 @@
+# Editores y sistema
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# Rust
+target/
